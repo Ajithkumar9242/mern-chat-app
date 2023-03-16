@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+*{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.App{
+    min-height: 100vh;
+    display: flex;
+    background-image: url("./bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
